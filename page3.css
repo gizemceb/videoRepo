@@ -1,0 +1,88 @@
+.header {
+  border: 2px solid #4a4a4a;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 30px;
+  display: flex; 
+}
+
+.innerbody h1{
+  text-align: center;
+}
+.second {
+  border: 2px solid #4a4a4a;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+
+}
+.second form{
+  text-align: center;
+}
+.second .btn {
+  margin-left: 90%;
+  top:50%;
+  right: 0;
+  width: 120px;
+
+
+}
+#btn_add, #btn_vazgec{
+  margin-top: 10px;
+  height: 25px;
+  width: 25px;
+  background-color: #D25959;
+  border-radius: 50%;
+}
+ form input {
+   margin: 10px;
+
+ }
+ input#input1 ,#input2 {
+
+
+
+   border: 2px solid #4a4a4a;
+   width: 250px;
+ }
+
+
+ form#form{
+   align-items: center;
+
+
+
+ }
+form .input{
+  position: relative;
+  left: 27px;
+
+}
+
+form #btn_save {
+
+   border: 2px solid #4a4a4a;
+   box-shadow: 3px 5px;
+   margin-top: 10px;
+   padding: 0px 30px 0px 30px;
+
+}
+
+div.header1 {
+  display: inline-block;
+}
+div.header2 {
+  display: inline-block;
+  margin-left: 80%;
+  font-size: 20px;
+  display: inline-block;
+
+}
+#btn_new_video {
+  margin-top: 10px;
+  height: 25px;
+  width: 25px;
+  background-color: #808080;
+  border-radius: 50%;
+}
